@@ -1,0 +1,722 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do toplevel_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UCA.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:32:56 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UCA.v 
+# -- Compiling module UCA
+# 
+# Top level modules:
+# 	UCA
+# End time: 07:32:59 on Dec 02,2019, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UC.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:32:59 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UC.v 
+# -- Compiling module UC
+# 
+# Top level modules:
+# 	UC
+# End time: 07:33:00 on Dec 02,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM_4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:00 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM_4.v 
+# -- Compiling module SUM_4
+# 
+# Top level modules:
+# 	SUM_4
+# End time: 07:33:00 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:00 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM.v 
+# -- Compiling module SUM
+# 
+# Top level modules:
+# 	SUM
+# End time: 07:33:00 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/sign_ext.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:00 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/sign_ext.v 
+# -- Compiling module sign_ext
+# 
+# Top level modules:
+# 	sign_ext
+# End time: 07:33:00 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:00 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v 
+# -- Compiling module mult4
+# 
+# Top level modules:
+# 	mult4
+# End time: 07:33:00 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:01 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult3.v 
+# -- Compiling module mult3
+# 
+# Top level modules:
+# 	mult3
+# End time: 07:33:01 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:02 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult2.v 
+# -- Compiling module mult2
+# 
+# Top level modules:
+# 	mult2
+# End time: 07:33:05 on Dec 02,2019, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:05 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult.v 
+# -- Compiling module mult
+# 
+# Top level modules:
+# 	mult
+# End time: 07:33:09 on Dec 02,2019, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mem_dat.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:09 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mem_dat.v 
+# -- Compiling module mem_dat
+# 
+# Top level modules:
+# 	mem_dat
+# End time: 07:33:11 on Dec 02,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/MA.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:12 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/MA.v 
+# -- Compiling module MA
+# 
+# Top level modules:
+# 	MA
+# End time: 07:33:17 on Dec 02,2019, Elapsed time: 0:00:05
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:17 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v 
+# -- Compiling module BUFER_MEM_WB
+# 
+# Top level modules:
+# 	BUFER_MEM_WB
+# End time: 07:33:19 on Dec 02,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_IF_ID.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:19 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_IF_ID.v 
+# -- Compiling module BUFER_IF_ID
+# 
+# Top level modules:
+# 	BUFER_IF_ID
+# End time: 07:33:19 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:20 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v 
+# -- Compiling module BUFER_ID_EX
+# 
+# Top level modules:
+# 	BUFER_ID_EX
+# End time: 07:33:20 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:20 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v 
+# -- Compiling module BUFER_EX_MEM
+# 
+# Top level modules:
+# 	BUFER_EX_MEM
+# End time: 07:33:21 on Dec 02,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:21 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BR.v 
+# -- Compiling module BR
+# 
+# Top level modules:
+# 	BR
+# End time: 07:33:21 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/ALU.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:21 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/ALU.v 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 07:33:23 on Dec 02,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:23 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v 
+# -- Compiling module SHIFT2
+# 
+# Top level modules:
+# 	SHIFT2
+# End time: 07:33:23 on Dec 02,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:23 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v 
+# -- Compiling module toplevel
+# 
+# Top level modules:
+# 	toplevel
+# End time: 07:33:25 on Dec 02,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:25 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v 
+# -- Compiling module pc
+# 
+# Top level modules:
+# 	pc
+# End time: 07:33:27 on Dec 02,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult5.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:27 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult5.v 
+# -- Compiling module mult5
+# 
+# Top level modules:
+# 	mult5
+# End time: 07:33:28 on Dec 02,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/memoria_instrucciones.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:28 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/memoria_instrucciones.v 
+# -- Compiling module memoria_instrucciones
+# 
+# Top level modules:
+# 	memoria_instrucciones
+# End time: 07:33:32 on Dec 02,2019, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+E:/CUCEI/Seminario\ de\ Arquietectura\ de\ Computadoras/Proyecto\ Final/Proyecto {E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:33:33 on Dec 02,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto" E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v 
+# -- Compiling module toplevel_tb
+# 
+# Top level modules:
+# 	toplevel_tb
+# End time: 07:33:35 on Dec 02,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L maxv_ver -L rtl_work -L work -voptargs="+acc"  toplevel_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L maxv_ver -L rtl_work -L work -voptargs=""+acc"" toplevel_tb 
+# Start time: 07:33:36 on Dec 02,2019
+# Loading work.toplevel_tb
+# Loading work.toplevel
+# Loading work.pc
+# Loading work.memoria_instrucciones
+# Loading work.SUM_4
+# Loading work.BUFER_IF_ID
+# Loading work.SHIFT2
+# Loading work.UC
+# Loading work.BR
+# Loading work.sign_ext
+# Loading work.BUFER_ID_EX
+# Loading work.mult3
+# Loading work.ALU
+# Loading work.UCA
+# Loading work.mult2
+# Loading work.SUM
+# Loading work.BUFER_EX_MEM
+# Loading work.mult5
+# Loading work.mem_dat
+# Loading work.MA
+# Loading work.BUFER_MEM_WB
+# Loading work.mult4
+# Loading work.mult
+# ** Warning: (vsim-3017) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Too few port connections. Expected 18, found 1.
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_escribir'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir_Dato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer_DR1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer_DR2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'instruccion'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Entrada1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Entrada2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Resultado'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_memdato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir_dato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'numero_de_instruccion'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'selectora'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'ZF'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer'.
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(80): [PCDPC] - Port size (9) does not match connection size (32) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst11 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(107): [PCDPC] - Port size (32) does not match connection size (26) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst21 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(107): [PCDPC] - Port size (32) does not match connection size (28) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst21 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (28) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e3'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (3) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (6) for port 'e13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e14'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'e15'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'e16'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e17'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (28) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out3'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (3) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (6) for port 'out13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out14'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'out15'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'out16'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out17'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (28) for port 'e2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (5) for port 'e12'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (28) for port 'out2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (5) for port 'out12'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (28) for port 'e2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (5) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (28) for port 'out2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (5) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (32) for port 'in_x'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (28) for port 'in_y'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (32) for port 'out_z'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(16)
+#    Time: 1350 ns  Iteration: 0  Instance: /toplevel_tb
+# Break in Module toplevel_tb at E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v line 16
+add wave -position insertpoint  \
+sim:/toplevel_tb/duv/inst5/MEM
+restart
+# ** Warning: (vsim-3017) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Too few port connections. Expected 18, found 1.
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_escribir'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir_Dato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer_DR1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer_DR2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'instruccion'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Entrada1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Entrada2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Resultado'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_memdato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir_dato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'numero_de_instruccion'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'selectora'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'ZF'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer'.
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(80): [PCDPC] - Port size (9) does not match connection size (32) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst11 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(107): [PCDPC] - Port size (32) does not match connection size (26) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst21 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(107): [PCDPC] - Port size (32) does not match connection size (28) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst21 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (28) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e3'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (3) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (6) for port 'e13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e14'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'e15'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'e16'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e17'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (28) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out3'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (3) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (6) for port 'out13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out14'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'out15'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'out16'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out17'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (28) for port 'e2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (5) for port 'e12'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (28) for port 'out2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (5) for port 'out12'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (28) for port 'e2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (5) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (28) for port 'out2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (5) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (32) for port 'in_x'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (28) for port 'in_y'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (32) for port 'out_z'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+run -continue
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# ** Note: $stop    : E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(16)
+#    Time: 1350 ns  Iteration: 0  Instance: /toplevel_tb
+# Break in Module toplevel_tb at E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v line 16
+add wave -position insertpoint sim:/toplevel_tb/duv/inst1/*
+restart
+# ** Warning: (vsim-3017) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Too few port connections. Expected 18, found 1.
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_escribir'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir_Dato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer_DR1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer_DR2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'instruccion'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Entrada1'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Entrada2'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Resultado'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Direccion_memdato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir_dato'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'numero_de_instruccion'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'selectora'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'ZF'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Escribir'.
+# ** Warning: (vsim-3722) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(5): [TFMPC] - Missing connection for port 'Leer'.
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(80): [PCDPC] - Port size (9) does not match connection size (32) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst11 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(107): [PCDPC] - Port size (32) does not match connection size (26) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst21 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(107): [PCDPC] - Port size (32) does not match connection size (28) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst21 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (28) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e3'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (3) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (6) for port 'e13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e14'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'e15'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'e16'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'e17'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (28) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out3'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (3) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (6) for port 'out13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out14'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'out15'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (5) for port 'out16'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(141): [PCDPC] - Port size (32) does not match connection size (1) for port 'out17'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst17 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (28) for port 'e2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (5) for port 'e12'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'e13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (28) for port 'out2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out5'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out6'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out9'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (5) for port 'out12'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(220): [PCDPC] - Port size (32) does not match connection size (1) for port 'out13'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst18 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (28) for port 'e2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (5) for port 'e7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'e8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out1'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (28) for port 'out2'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out4'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (5) for port 'out7'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(272): [PCDPC] - Port size (32) does not match connection size (1) for port 'out8'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst19 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (32) for port 'in_x'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (28) for port 'in_y'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+# ** Warning: (vsim-3015) E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v(293): [PCDPC] - Port size (9) does not match connection size (32) for port 'out_z'. The port definition is at: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /toplevel_tb/duv/inst9 File: E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+run -continue
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# ** Note: $stop    : E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(16)
+#    Time: 1350 ns  Iteration: 0  Instance: /toplevel_tb
+# Break in Module toplevel_tb at E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v line 16
+run -continue
+# ** Note: $stop    : E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v(18)
+#    Time: 1750 ns  Iteration: 0  Instance: /toplevel_tb
+# Break in Module toplevel_tb at E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v line 18
+# End time: 08:16:35 on Dec 02,2019, Elapsed time: 0:42:59
+# Errors: 0, Warnings: 234

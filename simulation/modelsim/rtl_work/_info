@@ -1,0 +1,528 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/simulation/modelsim
+vALU
+Z1 !s110 1575293601
+!i10b 1
+!s100 3T^:Pdjg:gVFc5Qgjj2fc1
+IR6MQUEl8:i[e59FfWeNee0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1574962438
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/ALU.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/ALU.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1575293601.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/ALU.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto}
+Z7 tCvgOpt 0
+n@a@l@u
+vBR
+R1
+!i10b 1
+!s100 g_EZ43o75fFVhccY?jI_>1
+IV9:_Mb^S7Ko>TJNNnmV0S0
+R2
+R0
+w1574628659
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BR.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BR.v|
+!i113 1
+R5
+R6
+R7
+n@b@r
+vBUFER_EX_MEM
+Z8 !s110 1575293600
+!i10b 1
+!s100 3bPjMBUU5kIJAXf4c9Vb52
+IfHfDao7mVJ66<bYo>bgVH0
+R2
+R0
+w1574693596
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1575293600.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_EX_MEM.v|
+!i113 1
+R5
+R6
+R7
+n@b@u@f@e@r_@e@x_@m@e@m
+vBUFER_ID_EX
+R8
+!i10b 1
+!s100 2Y;aUS`fHD5_4H0mzV]Ho2
+Im8jU@joPh2k5`S_U8L1GO3
+R2
+R0
+w1574693639
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_ID_EX.v|
+!i113 1
+R5
+R6
+R7
+n@b@u@f@e@r_@i@d_@e@x
+vBUFER_IF_ID
+!s110 1575293599
+!i10b 1
+!s100 Ik7nZQPdSMIP^T:VfdN@53
+IaMdaRjX7eN0kD[FS[D5SD1
+R2
+R0
+w1574527924
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_IF_ID.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_IF_ID.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293599.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_IF_ID.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_IF_ID.v|
+!i113 1
+R5
+R6
+R7
+n@b@u@f@e@r_@i@f_@i@d
+vBUFER_MEM_WB
+!s110 1575293598
+!i10b 1
+!s100 W5L=BV47Hfb4L@YmEZ;gI1
+IShAL11hUDz]8icngl3F9P1
+R2
+R0
+w1574693523
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293597.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/BUFER_MEM_WB.v|
+!i113 1
+R5
+R6
+R7
+n@b@u@f@e@r_@m@e@m_@w@b
+vMA
+!s110 1575293592
+!i10b 1
+!s100 zZdR3Ba;EboYOM?O`OoDj1
+IXbkhR9FH2g5U0BJ>z;ziA0
+R2
+R0
+w1574032032
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/MA.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/MA.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293592.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/MA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/MA.v|
+!i113 1
+R5
+R6
+R7
+n@m@a
+vmem_dat
+!s110 1575293590
+!i10b 1
+!s100 iSV[AEA;E:^gF>7PI]RbG1
+ImENZ=8UR`h;6mKFYnPFzR2
+R2
+R0
+w1574295763
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mem_dat.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mem_dat.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293589.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mem_dat.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mem_dat.v|
+!i113 1
+R5
+R6
+R7
+vmemoria_instrucciones
+!s110 1575293608
+!i10b 1
+!s100 hgn[oIXVV<8WMJL_1AiE32
+I;?j[7^A^4:ih61XL18TVW1
+R2
+R0
+w1574295587
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/memoria_instrucciones.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/memoria_instrucciones.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293608.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/memoria_instrucciones.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/memoria_instrucciones.v|
+!i113 1
+R5
+R6
+R7
+vmult
+!s110 1575293586
+!i10b 1
+!s100 >@GNk99Vc@N=8lj@EkIf;3
+I:Un[909MWnPGYPd>Hc[@U1
+R2
+R0
+w1573146760
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293585.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult.v|
+!i113 1
+R5
+R6
+R7
+vmult2
+!s110 1575293583
+!i10b 1
+!s100 GCZjDRn2Ze4E`2nJ?Fh6;1
+IH[87LZ@6AUH[hAOIgP08^1
+R2
+R0
+w1573330873
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult2.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult2.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293582.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult2.v|
+!i113 1
+R5
+R6
+R7
+vmult3
+!s110 1575293581
+!i10b 1
+!s100 J4:?i:N4`:EYEO]V3G=0M1
+IlcUaZSmHfYK:T?;S:^?AJ2
+R2
+R0
+w1573150804
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult3.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult3.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293581.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult3.v|
+!i113 1
+R5
+R6
+R7
+vmult4
+Z10 !s110 1575293580
+!i10b 1
+!s100 `_4AkIl0F:5I?aU_Sb?RQ2
+Im;A;V0aYGWC_dQ3O[KM4b3
+R2
+R0
+w1574896920
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1575293580.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult4.v|
+!i113 1
+R5
+R6
+R7
+vmult5
+!s110 1575293607
+!i10b 1
+!s100 IXj9z42HLB?HSEBHK_=?W0
+I9XDR@Tz1?[5bkR5B2RPY92
+R2
+R0
+w1574536071
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult5.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult5.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293607.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult5.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/mult5.v|
+!i113 1
+R5
+R6
+R7
+vpc
+!s110 1575293606
+!i10b 1
+!s100 R9ff@^gP2QXn6L_K_j]C71
+I`]J_o[^MA][_2RicYEB<M2
+R2
+R0
+w1574544853
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293605.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/pc.v|
+!i113 1
+R5
+R6
+R7
+vSHIFT2
+!s110 1575293603
+!i10b 1
+!s100 OSFbfBaj7iS4GKGcKHZLN1
+IPVk8FVf=l_LBW=7zE[Q^M1
+R2
+R0
+w1574364529
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1575293603.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SHIFT2.v|
+!i113 1
+R5
+R6
+R7
+n@s@h@i@f@t2
+vsign_ext
+R10
+!i10b 1
+!s100 QOVSK6Ij4mk[YUHE45?;;2
+ImCjQMASBOCzd@46@Co7@@1
+R2
+R0
+w1573396896
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/sign_ext.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/sign_ext.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/sign_ext.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/sign_ext.v|
+!i113 1
+R5
+R6
+R7
+vSUM
+R10
+!i10b 1
+!s100 AKAhE[C?en`G2bN`mGQEm0
+I:ETINbFf:^L2Ik?7NEQje1
+R2
+R0
+w1574532258
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM.v|
+!i113 1
+R5
+R6
+R7
+n@s@u@m
+vSUM_4
+R10
+!i10b 1
+!s100 34AoPBWUoKhO;lTXRIkFd2
+IEK83mR4a9Pje=:adQY^Cc1
+R2
+R0
+w1574531561
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM_4.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM_4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM_4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/SUM_4.v|
+!i113 1
+R5
+R6
+R7
+n@s@u@m_4
+vtoplevel
+!s110 1575293604
+!i10b 1
+!s100 PJZKZ@jnN;Z]aCJK8WJ;73
+IEzmBaAN`KWIca?XiR27i^1
+R2
+R0
+w1574793499
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel.v|
+!i113 1
+R5
+R6
+R7
+vtoplevel_tb
+!s110 1575293613
+!i10b 1
+!s100 KbBJRnOZ@CQ`dH7<9j_=<2
+I?`;lmof>83hLZZ87GSh]I1
+R2
+R0
+w1574890357
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1575293613.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/toplevel_tb.v|
+!i113 1
+R5
+R6
+R7
+vUC
+R10
+!i10b 1
+!s100 9Qnm9MZ61c4_]A93gNU6b1
+IVbRfEIQ@Gj3hLVWJLFJ571
+R2
+R0
+w1574962379
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UC.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UC.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293579.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UC.v|
+!i113 1
+R5
+R6
+R7
+n@u@c
+vUCA
+!s110 1575293578
+!i10b 1
+!s100 FzgeJKLOSdTonmig?hJ?U2
+Il1i4a1;X7eeV`5QM>Ba9?3
+R2
+R0
+w1574962423
+8E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UCA.v
+FE:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UCA.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1575293576.000000
+!s107 E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UCA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto|E:/CUCEI/Seminario de Arquietectura de Computadoras/Proyecto Final/Proyecto/UCA.v|
+!i113 1
+R5
+R6
+R7
+n@u@c@a
