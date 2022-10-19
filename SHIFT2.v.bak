@@ -1,0 +1,8 @@
+module SHIFT2(
+input e1,
+output reg out1
+);
+
+assign out1 = e1 << 2;
+
+endmodule  

@@ -1,0 +1,16 @@
+module pc(
+input [31:0] e1,
+input clk,
+output reg [31:0] out
+);
+
+always@(posedge clk)
+begin
+	out<=e1;
+end
+initial
+	begin
+		out=32'd0;
+	end
+
+endmodule 

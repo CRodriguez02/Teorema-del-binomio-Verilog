@@ -1,0 +1,62 @@
+module UC(
+input [5:0] opcode,
+output reg en,
+output reg memreg,
+output reg enw,
+output reg enr,
+output reg en_mult2,
+output reg en_mult3,
+output reg [1:0]aluc
+
+);
+always @(*)
+	begin
+	case (opcode)
+			6'b000000:
+				begin
+					en=1'b1;
+					memreg=1'b1;
+					enw=1'b0;
+					enr=1'b0;
+					aluc=2'b10;
+					en_mult2=1'b0;
+					en_mult3=1'b1;
+				end
+			6'b001000:
+				begin
+					en=1'b1;
+					memreg=1'b1;
+					enw=1'b0;
+					enr=1'b0;
+					aluc=2'b01;
+					en_mult2=1'b1;
+					en_mult3=1'b0;
+				end
+			6'b101011:
+				begin
+					en=1'b0;
+					//memreg=1'b1;
+					enw=1'b1;
+					enr=1'b0;
+					aluc=2'b01;
+					en_mult2=1'b1;
+					//en_mult3=1'b0;
+				end
+			6'b100011:
+				begin
+					en=1'b1;
+					memreg=1'b0;
+					enw=1'b0;
+					enr=1'b1;
+					aluc=2'b01;
+					en_mult2=1'b1;
+					en_mult3=1'b0;
+				end
+		default:
+			begin
+				en=0;
+			end
+		endcase
+	end
+
+endmodule 

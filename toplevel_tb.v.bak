@@ -1,0 +1,17 @@
+`timescale 1ns/1ps
+module toplevel_tb();
+reg clk_tb;
+toplevel duv(
+.clk(clk_tb),
+);
+
+initial
+begin
+clk_tb =1'b1;
+forever #5 clk_tb =~clk_tb;
+end
+ 
+initial
+#20;
+end
+endmodule 

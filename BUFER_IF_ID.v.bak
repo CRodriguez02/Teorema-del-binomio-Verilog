@@ -1,0 +1,12 @@
+module BUFER_IF_ID(
+input  [31:0] Inst_Sing, Inst_Act,
+input clk,
+output reg[31:0] Inst_Sing_out, Inst_Act_out
+);
+
+always@(posedge clk)
+begin
+	Inst_Sing_out<=Inst_Sing;
+	Inst_Act_out<=Inst_Act;
+end
+endmodule 

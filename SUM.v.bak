@@ -1,0 +1,9 @@
+module SUM(
+input  [15:0] op1, op2,
+output [15:0] SUMA 
+);
+
+
+assign SUMA=op1+op2;
+
+endmodule 
